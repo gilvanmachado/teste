@@ -1,10 +1,6 @@
 <?php
-<<<<<<< HEAD
-  echo "helow word!!!";
-  echo"Todo aprendizado de linguagem de programação deve ser inciado com o hellow word";
+ echo "hello word!!!";
+  echo "olá mundo!!"
+  echo"Todo aprendizado de linguagem de programação deve ser inciado com  hello word ou ola mundo";
 ?>
-=======
-  echo "helow word!!!"
-  echo "ola mundo!!!"  
-?>
->>>>>>> 2744d4993540bf2172f39b02d93d9ab576e95f4b
+
